@@ -1,5 +1,6 @@
 # ChatApp
-Asp.net core 8 + Javascript + SignalR + RazorPage + MVC
+ChatApp1: Asp.net core 8 + Javascript + SignalR + RazorPage + MVC
+ChatApp2: Asp.net Core 8 + React.js + SignalR full-stack project
 This is an app from Microsoft Documents. In my opinion, the best way to learn a new framework or tool is from their official documents.
 Happy Coding! 🫀
 
@@ -15,3 +16,5 @@ Select Choose specific files, expand the dist/browser folder, and select signalr
 Set Target Location to wwwroot/js/signalr/.
 Select Install.
 ```
+
+
