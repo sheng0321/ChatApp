@@ -1,6 +1,6 @@
 # ChatApp
-ChatApp1: Asp.net core 8 + Javascript + SignalR + RazorPage + MVC \
-ChatApp2: Asp.net Core 8 + React.js + SignalR full-stack project 
+**ChatApp1**: Asp.net core 8 + Javascript + SignalR + RazorPage MVC project \
+**ChatApp2**: Asp.net Core 8 web API + React.js + SignalR full-stack project 
 
 These are  example apps from Microsoft Documents or other Internet source. \
 In my opinion, the best way to learn a new framework or tool is from their official documents.   
