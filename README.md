@@ -2,7 +2,7 @@
 **ChatApp1**: Asp.net core 8 + Javascript + SignalR + RazorPage MVC project \
 **ChatApp2**: Asp.net Core 8 web API + React.js + SignalR full-stack project 
 
-These are  example apps from Microsoft Documents or other Internet source. \
+These are  example apps from Microsoft Documents or another Internet source. \
 In my opinion, the best way to learn a new framework or tool is from their official documents.   
 Happy Coding! 🫀
 
@@ -18,5 +18,7 @@ Select Choose specific files, expand the dist/browser folder, and select signalr
 Set Target Location to wwwroot/js/signalr/.
 Select Install.
 ```
+
+In  a real-time app, it needs both frontend and backend to work together, like in a restaurant. we have servers and cookers. sometimes the server orders food,  sometimes, when there are some issues, the cooker needs to notice the servers actively.
 
 
