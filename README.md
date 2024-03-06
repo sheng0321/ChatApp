@@ -20,5 +20,6 @@ Select Install.
 ```
 
 In  a real-time app, it needs both frontend and backend to work together, like in a restaurant. we have servers and cookers. sometimes the server orders food,  sometimes, when there are some issues, the cooker needs to notice the servers actively.
+Just try to know how it works, then check up the documents. not try to remember all the codes.
 
 
